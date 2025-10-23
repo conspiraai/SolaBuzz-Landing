@@ -28,4 +28,4 @@ A new way to shop, powered by Solana — **fast, clean, crypto-native**.
 ---
 
 ## 📩 Contact
-Built by [@sourcesignals] (https://twitter.com/sourcesignals) — powered by Solana.
+Built by [@sourcesignals](https://twitter.com/sourcesignals) — powered by Solana.
